@@ -1,4 +1,4 @@
-# Chatbot_Gordon
+# GENAI and LLM Project
 Gordon: A Culinary Companion Chatbot.  
 
 ---------------------------------------------------------------
