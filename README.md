@@ -2,3 +2,5 @@
 Gordon: A Culinary Companion Chatbot.  
 
 A partially finished project focused on Generative AI and Large Language Models.
+
+P.S - New notebooks to be updated soon
